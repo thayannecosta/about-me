@@ -17,6 +17,7 @@
     max-width: 40ch;
     margin-bottom: 60px;
     color: #525252;
+    text-align: justify;
   }
   
   .experiencia-texto strong {
@@ -39,7 +40,7 @@
     display: block;
     width: 4px;
     height: 20px;
-    background: linear-gradient(#b6f829, #67dd0a);
+    background: linear-gradient(#8D69A2, #3e0a5c);
     position: absolute;
     top: 20px;
     left: -4px;
@@ -100,9 +101,11 @@
       text-align: left;
     }
   }
-  
   @media (max-width: 400px) {
-    .empresa {
+    .experiencia .subtitulo {
+      color: #141414;
+    }
+    .empresa{
       grid-template-columns: 1fr;
     }
   }
