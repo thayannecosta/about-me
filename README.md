@@ -2,6 +2,8 @@
 
 Este é um projeto simples desenvolvido utilizando **HTML** e **CSS**, com o objetivo de apresentar um pouco sobre mim, **Thayanne Tenório**, minha trajetória profissional, formação e formas de contato.
 
+- **Acesse:** https://thayannecosta.github.io/about-me/
+
 ## 🎯 Objetivo
 
 Criar uma **página pessoal** moderna e responsiva, que funcione como uma pequena apresentação do meu perfil profissional — algo entre um mini portfólio e um currículo online.
